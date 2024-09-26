@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Danish Ali Syed
 
-![photo_2024-05-18_02-39-21](https://github.com/DanishDaez/DanishDaez/assets/81825001/b0bc3762-1872-4538-a10a-de29a32a582f)
-
-I’m a final year B.Tech student with a keen interest in web development and a passion for creating dynamic, responsive web applications. Currently, I am delving into the MERN stack (MongoDB, Express.js, React, Node.js) and am excited to share my learning journey and projects with you.
+I’m recent B.Tech graduate with a keen interest in web development and a passion for creating dynamic, responsive web applications. Currently, I am delving into the MERN stack (MongoDB, Express.js, React, Node.js) and am excited to share my learning journey and projects with you.
 
 ## About Me
 - 🎓 **Education**: Final year B.Tech student majoring in B.Tech CSE at Dr.Babasaheb Ambedkar Technological University.
