@@ -24,28 +24,35 @@ I’m recent B.Tech graduate with a keen interest in web development and a passi
 
 ## Projects
 ### Project 1: Airbnb Clone
- | 
+
 • Developed a full-stack Airbnb-inspired web application using the MERN stack with EJS
+
 • Implemented key features including user authentication, property listings, booking system, and user reviews
+
 • Utilized RESTful API principles for efficient server-client communication
+
 • Integrated MongoDB for data persistence and management of user and property information
+
 • Employed EJS for server-side rendering, creating dynamic and responsive web pages
-- **Technologies Used**: MongoDB, Express.js, Node.js, EJS
-- https://globetrotter-iw44.onrender.com/listings
-  
-### Project 2: Speech to Text Translator
-- **Description**: Developed Built a web app for speech-to-text conversion with translation potential.
-- **Technologies Used**: HTML, CSS, JavaScript
-  
-### Project 3: Spotify Clone
-- **Description**: Created a functional replica of the Spotify user interface, including elements like navigation bar, album 
-covers, and playlists, basic playback controls.
-- **Technologies Used**: HTML, CSS
 
-### Project 4: Simon Says
-- **Description**: Built a classic Simon Says game where users repeat a sequence of colors.
-- **Technologies Used**: HTML, CSS, JavaScript
+**Technologies Used**: MongoDB, Express.js, Node.js, EJS
 
+[Live Link](https://globetrotter-iw44.onrender.com/listings)
+  
+  ### Project 2: Pizza Wizza
+ 
+• Developed a web application for pizza delivery using React
+
+• Built a full-stack pizza ordering platform with cart management and order tracking functionality
+
+• Implemented comprehensive test suite using Vitest and Testing Library, achieving 80% test coverage
+
+• Integrated Tanstack Router and Tanstack Query
+
+ **Technologies Used**: React, Tanstack, Vitest
+ 
+ [See Repo](https://github.com/DanishDaez/pizza-wizza)
+  
 ## Get In Touch
 I am always eager to learn new things, share knowledge, and collaborate on exciting projects. Feel free to reach out to me through the following channels:
 
